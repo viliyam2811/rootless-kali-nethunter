@@ -5,7 +5,7 @@ Android Device
 <br>Termux App
 <br>Hackers Keyboard
 <h5>Instalation</h5>
-Copy following code to Termux and hit Enter.
+Copy following code to Termux and hit Enter.<br>
 <code>
 termux-setup-storage && 
 pkg install wget &&
