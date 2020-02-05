@@ -5,12 +5,12 @@ Android Device
 <br>Termux App
 <br>Hackers Keyboard
 <h5>Instalation</h5>
+<h6>
 Copy following code to Termux and hit Enter.<br>
-<br>
-<code>
-termux-setup-storage && 
+<h6>
+
+<code>termux-setup-storage && 
 pkg install wget &&
 wget -O install-nethunter-termux https://offs.ec/2MceZWr &&
 chmod +x install-nethunter-termux &&
-./install-nethunter-termux
-</code>
+./install-nethunter-termux</code>
